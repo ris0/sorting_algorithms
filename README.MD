@@ -9,5 +9,8 @@
 #### Bubble sort space complexity: O(1)
 #### Bubble sort time complexity: O(n^2)
 
-#### Merge sort space complexity: O(n)
-#### Merge sort time complexity: O(n * log(n))
+#### Merge sort 
+
+
+space complexity: O(n)
+time complexity: O(n * log(n))
